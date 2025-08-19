@@ -10,11 +10,7 @@ A regression competition to predict how long users listen to a podcast episode (
 **Metric**  
 - RMSE (Root Mean Squared Error)
 
-**Approach Highlights from the Community**  
+**Approach Highlights**  
 - Extensive EDA and feature engineering (e.g., interactions, publication timing, genre stats)  
 - Data preprocessing: handling missing values and encoding categoricals  
 - Models: Random Forest, LightGBM, ExtraTrees; often tuned with cross-validation  
-- Some top solutions achieved RMSE ~12.66 using Random Forests
-
-**Resources**  
-Refer to GitHub repositories and Kaggle notebooks for examples and implementation strategies.
